@@ -2,8 +2,6 @@
 
 <h2 align="center" style="color: #ED8DB2; font-size: 40px">Let them order cake!</h2>
 
-Explore the [deployed version](https://bakey-app.herokuapp.com/) directly or use the QR code below to access from your mobile device.
-
 <span><img src="./readme_assets/presentation.png" width="500px"><img src="./readme_assets/bakeyQR.png" width="200px"></span>
 
 ## About
